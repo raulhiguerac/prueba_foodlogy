@@ -14,7 +14,7 @@ Con la libreria pandas leo el csv que acabe de crear y transformo los datos para
 
 De los datos que obtego, creo 3 tablas de dimensiones y una tabla de hechos
 
-![Modelo estrella](images/Modelo estrella.PNG)
+![Modelo_estrella](images/Modelo_estrella.PNG)
 
 ## Load
 
