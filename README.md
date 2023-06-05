@@ -4,11 +4,11 @@ Se realiza un ETL de la [API del Gobierno](https-datos.gov.co/resource/7cci-nqqb
 
 ![ETL](images/Tasks.PNG)
 
-##Extract
+## Extract
 
 Hago una petición a la api, formateo los datos y los guardo en local en formato csv para posteriormente transformarlos.
 
-##Transform
+## Transform
 
 Con la libreria pandas leo el csv que acabe de crear y transformo los datos para dejarlos en formato csv de nuevo.
 
@@ -16,7 +16,7 @@ De los datos que obtego, creo 3 tablas de dimensiones y una tabla de hechos
 
 ![Modelo estrella](images/Modelo estrella.PNG)
 
-##Load
+## Load
 
 Creo una conexion al gestor en donde esta corriendo Airflow para poder crear una base y posteriormente las tablas.
 
