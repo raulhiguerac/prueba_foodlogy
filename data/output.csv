@@ -1,0 +1,1001 @@
+orden,fecha,a_o,mes,d_a,gravedad,peaton,automovil,campaero,camioneta,micro,buseta,bus,camion,volqueta,moto,bicicleta,otro,via_1,barrio,hora,entidad,nombrecomuna,propietario_de_veh_culo,diurnio_nocturno,hora_restriccion_moto
+1,01/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,0,0,0,CALLE,Mutis,12:15:00 p. m.,AGENTES DTB,17. MUTIS,Particular,Diurno,No aplica
+2,01/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,VIA MATANZA,Regaderos Norte,02:00:00 p. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Diurno,No aplica
+3,01/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,0,0,1,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,12:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+4,01/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Norte Bajo,06:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,No aplica
+5,01/01/2012,2012,01. Enero,07. Domingo,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Dangond,12:30:00 a. m.,AGENTES DTB,11. SUR,Particular,Nocturno,En restricción
+6,01/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,San Miguel,09:10:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,Sin restricción
+7,02/01/2012,2012,01. Enero,01. Lunes,Con Heridos,1,0,0,0,1,0,0,0,0,0,0,0,CARRERA,La Pedregosa,01:50:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,No aplica
+8,02/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Bucaramanga,07:20:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Nocturno,No aplica
+9,02/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,1,CARRERA,Regaderos Norte,12:00:00 p. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Diurno,No aplica
+10,02/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Tejar Norte,04:35:00 p. m.,AGENTES DTB,01. NORTE,Particular,Diurno,No aplica
+11,02/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Sotomayor,06:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+12,02/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,0,0,0,0,0,1,0,1,0,0,AUTOPISTA  NORTE,Norte Bajo,08:20:00 a. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Diurno,Sin restricción
+13,02/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE,Fontana,01:45:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+14,03/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Provenza,05:10:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+15,03/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,1,1,0,0,CARRERA,Nuevo Sotomayor,06:45:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+16,03/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,0,0,0,1,0,0,1,0,0,0,0,AUTOPISTA  NORTE,Cafe Madrid,10:10:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,No aplica
+17,03/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,Centro,06:10:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,Sin restricción
+18,03/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA Q SECA,Centro,06:00:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+19,03/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,04:15:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+20,04/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Alvarez,06:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,No aplica
+21,04/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,3,0,0,0,0,0,0,0,0,0,0,CALLE,Asturias,07:00:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Nocturno,No aplica
+22,04/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Bolarqui,12:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+23,04/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,AVENIDA Q SECA,Los Pinos,01:50:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+24,04/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Manuela Beltran,11:22:00 a. m.,AGENTES DTB,11. SUR,Particular,Diurno,No aplica
+25,04/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,La Pedregosa,08:40:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Nocturno,Sin restricción
+26,04/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,ANILLO VIAL,Rio de Oro I,08:30:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,No aplica
+27,04/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,CARRERA,Alarcon,03:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+28,04/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Real de Minas,06:00:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Diurno,Sin restricción
+29,04/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Real de Minas,06:40:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Nocturno,Sin restricción
+30,05/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,1,0,0,0,0,1,0,0,0,0,0,CARRERA,Antonia Santos Centro,01:00:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+31,05/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,1,0,1,0,0,CALLE,Centro,05:45:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+32,05/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Conucos,07:50:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,Sin restricción
+33,05/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,CALLE,Alarcon,09:15:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+34,05/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,2,0,0,AVENIDA Q SECA,Nuevo Sotomayor,09:40:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+35,05/01/2012,2012,01. Enero,04. Jueves,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,AVENIDA Q SECA,Alarcon,09:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+36,05/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,ANILLO VIAL,Rio de Oro I,09:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+37,05/01/2012,2012,01. Enero,04. Jueves,Con Heridos,1,0,0,1,0,0,0,0,0,0,0,0,CARRERA,Antonia Santos Centro,10:40:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+38,05/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Asturias,07:15:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+39,05/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,La Aurora,09:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+40,05/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Mejoras Publicas,10:20:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+41,05/01/2012,2012,01. Enero,04. Jueves,Con Heridos,1,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,04:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+42,06/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Girardot,10:15:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+43,06/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,0,0,0,0,0,0,1,0,0,0,CALLE 45 VIA CHIMITA,Rio de Oro I,04:05:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+44,06/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,AVENIDA  GONZALEZ VALENCIA,Real de Minas,03:10:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,No aplica
+45,06/01/2012,2012,01. Enero,05. Viernes,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,AVENIDA Q SECA,San Alonso,03:20:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+46,06/01/2012,2012,01. Enero,05. Viernes,Con Heridos,1,0,0,0,0,1,0,0,0,0,0,0,CALLE,Mejoras Publicas,08:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+47,06/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Bolarqui,11:45:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+48,06/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Juan XXIII,05:40:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Nocturno,No aplica
+49,06/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,1,1,0,CALLE,La Ceiba,09:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+50,06/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,07:30:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,Sin restricción
+51,07/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,05:00:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+52,07/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,0,0,1,0,0,0,0,1,0,0,0,CARRERA,Comuneros,06:55:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,No aplica
+53,07/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL,La Pedregosa,09:10:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+54,07/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,06:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+55,07/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Antonia Santos Sur,09:40:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+56,07/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CALLE,Cabecera del Llano,11:45:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+57,07/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Concordia,10:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,No aplica
+58,07/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Concordia,02:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+59,08/01/2012,2012,01. Enero,07. Domingo,Con Heridos,1,0,0,0,0,0,1,0,0,0,0,0,CARRERA,Cafe Madrid,10:11:00 a. m.,AGENTES DTB,01. NORTE,Empresa,Diurno,No aplica
+60,08/01/2012,2012,01. Enero,07. Domingo,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,PREDIO URBANO PUENTE EL BUENO,04:30:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Diurno,Sin restricción
+61,08/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Alonso,01:00:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,En restricción
+62,08/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,TRANSVERSAL,La Pedregosa,10:00:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+63,08/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Bucaramanga,10:45:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,No aplica
+64,08/01/2012,2012,01. Enero,07. Domingo,Con Muertos,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA  NORTE,Divino Niño,11:15:00 a. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+65,08/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE,Real de Minas,04:45:00 a. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Nocturno,Sin restricción
+66,09/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Bolarqui,01:50:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+67,09/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Victoria,02:40:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+68,09/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,San Francisco,03:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,En restricción
+69,09/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,San Francisco,06:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+70,09/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Lagos del Cacique,01:00:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Empresa,Diurno,No aplica
+71,09/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA  EL JARDIN,El Jardin,05:10:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+72,09/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,02:05:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+73,09/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA  NORTE,Colseguros Norte,08:00:00 p. m.,AGENTES DTB,01. NORTE,Particular,Nocturno,Sin restricción
+74,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,1,0,0,0,0,AUTOPISTA  NORTE,Colorados,09:00:00 a. m.,AGENTES DTB,01. NORTE,Particular,Diurno,No aplica
+75,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Miraflores,07:40:00 a. m.,AGENTES DTB,14. MORRORICO,Particular,Diurno,Sin restricción
+76,10/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Nuevo Sotomayor,10:30:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+77,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL METROPOLITANA,Villa Alicia,12:17:00 a. m.,AGENTES DTB,11. SUR,Particular,Nocturno,En restricción
+78,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,0,0,0,1,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,10:40:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,Sin restricción
+79,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Mutis,02:10:00 p. m.,AGENTES DTB,17. MUTIS,Particular,Diurno,Sin restricción
+80,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,Alarcon,04:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+81,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,0,1,0,AVENIDA Q SECA,Alarcon,03:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,No aplica
+82,10/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,0,0,0,0,0,0,0,0,0,0,2,AUTOPISTA  NORTE,SIN INFORMACION,04:45:00 p. m.,AGENTES DTB,SIN INFORMACION,Particular,Diurno,No aplica
+83,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Candiles,06:15:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,Sin restricción
+84,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Bolivar,02:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+85,10/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Norte Bajo,06:15:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+86,11/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,3,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,10:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+87,11/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Antonia Santos Sur,07:00:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+88,11/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Cabecera del Llano,11:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+89,11/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,11:15:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+90,11/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,Bolarqui,03:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+91,11/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,AVENIDA LA ROSITA,Bolivar,07:15:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,Sin restricción
+92,11/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,03:01:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+93,11/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,07:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+94,11/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,El Tejar,04:30:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Empresa,Diurno,Sin restricción
+95,11/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Mutis,02:10:00 p. m.,AGENTES DTB,17. MUTIS,Particular,Diurno,Sin restricción
+96,11/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,CAMINO DEL PARQUE,08:45:00 p. m.,AGENTES DTB,11. SUR,Particular,Nocturno,No aplica
+97,11/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Sotomayor,10:10:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+98,11/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CALLE,Cabecera del Llano,12:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+99,12/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,ANILLO VIAL,Rio de Oro I,08:40:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,Sin restricción
+100,12/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,CALLE,San Alonso,11:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+101,12/01/2012,2012,01. Enero,04. Jueves,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Campo Hermoso,06:45:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,Sin restricción
+102,12/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,0,0,1,0,1,0,0,0,0,0,0,CARRERA,Centro,03:10:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+103,12/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Mejoras Publicas,06:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,Sin restricción
+104,12/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,0,0,0,0,1,0,0,1,0,0,0,CALLE,Esperanza I,08:10:00 a. m.,AGENTES DTB,02. NORORIENTAL,Particular,Diurno,No aplica
+105,13/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CALLE 45 VIA CHIMITA,Rio de Oro I,05:45:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+106,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,1,AUTOPISTA  NORTE,Norte Bajo,12:30:00 p. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Diurno,No aplica
+107,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,ANILLO VIAL,Rio de Oro I,05:20:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+108,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Real de Minas,06:55:00 a. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Diurno,No aplica
+109,13/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,San Francisco,03:45:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+110,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,ANILLO VIAL,FLORIDABLANCA,06:20:00 p. m.,AGENTES DTB,FLORIDABLANCA,Empresa,Nocturno,No aplica
+111,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Mejoras Publicas,03:00:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+112,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,0,CARRERA,Universidad,05:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+113,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,0,0,0,1,0,1,0,0,0,0,AUTOPISTA  NORTE,San Rafael,06:20:00 p. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Nocturno,No aplica
+114,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AVENIDA  GONZALEZ VALENCIA,Nuevo Sotomayor,08:10:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+115,13/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Comuneros,01:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+116,13/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Ricaurte,08:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,Sin restricción
+117,14/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Real de Minas,04:27:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,Sin restricción
+118,14/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,0,0,0,1,0,0,0,0,1,0,0,CARRERA,Ricaurte,02:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+119,14/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA  NORTE,Kennedy,06:00:00 p. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+120,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,0,0,0,0,1,0,1,0,0,0,0,CARRERA,Centro,09:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+121,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Centro,03:40:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,No aplica
+122,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,SIN INFORMACION,06:10:00 a. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+123,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Provenza,09:34:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+124,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,3,0,1,0,0,0,0,0,0,0,0,AUTOPISTA  NORTE,Manuela Beltran,12:30:00 p. m.,AGENTES DTB,11. SUR,Empresa,Diurno,No aplica
+125,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,0,0,1,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Juan XXIII,02:00:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Nocturno,No aplica
+126,14/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Provenza,07:40:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+127,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Aurora,01:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+128,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,Nuevo Sotomayor,04:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+129,14/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,NUEVO SOTOMAYOR,08:40:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+130,14/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA  NORTE,Kennedy,10:40:00 p. m.,AGENTES DTB,01. NORTE,Particular,Nocturno,Sin restricción
+131,15/01/2012,2012,01. Enero,07. Domingo,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,07:26:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+132,15/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,TRANSVERSAL ORIENTAL,SANTA BARBARA,05:45:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Empresa,Diurno,No aplica
+133,15/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Campo Hermoso,05:50:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+134,15/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Provenza,08:10:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+135,15/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Estoraques I y II,05:10:00 a. m.,AGENTES DTB,17. MUTIS,Empresa,Nocturno,Sin restricción
+136,15/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CALLE,Provenza,11:45:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+137,15/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,2,0,1,0,0,0,0,0,0,0,0,CARRERA,La Aurora,01:15:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+138,15/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,SANTA BARBARA,04:55:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Empresa,Diurno,Sin restricción
+139,15/01/2012,2012,01. Enero,07. Domingo,Con Muertos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Aurora,12:00:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,En restricción
+140,15/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,Los Pinos,05:00:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+141,15/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE 45 VIA CHIMITA,La Estrella,07:20:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,Sin restricción
+142,16/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,La Concordia,02:05:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+143,16/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CALLE,Sotomayor,03:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+144,16/01/2012,2012,01. Enero,01. Lunes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,San Gerardo,04:45:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Diurno,Sin restricción
+145,16/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,0,0,0,1,0,1,0,0,0,0,CARRERA,San Alonso,02:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+146,16/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,2,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,09:50:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+147,16/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,10:50:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+148,16/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,CARRERA,La Aurora,10:20:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+149,16/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante I,08:10:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,No aplica
+150,17/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,1,0,0,0,0,0,2,0,0,CARRERA,Alfonso Lopez,03:50:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,Sin restricción
+151,17/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Diamante II,12:00:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+152,17/01/2012,2012,01. Enero,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Alfonso Lopez,06:50:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,Sin restricción
+153,17/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,0,1,0,0,0,0,1,0,0,CALLE,Provenza,09:55:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+154,17/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,Nuevo Sotomayor,07:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+155,17/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA LA ROSITA,La Concordia,09:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+156,17/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Real de Minas,12:15:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,No aplica
+157,17/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Sotomayor,04:25:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+158,17/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Campo Hermoso,06:25:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+159,17/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Norte Bajo,10:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+160,17/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,1,1,0,CARRERA,Puerta del Sol,06:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+161,17/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Bucaramanga,07:00:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,Sin restricción
+162,18/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,2,0,0,BOULEVAR BOLIVAR,Comuneros,10:20:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+163,18/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Africa,03:10:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Diurno,No aplica
+164,18/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Diamante II,08:00:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,Sin restricción
+165,18/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,10:05:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+166,18/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,2,0,0,CALLE,Centro,08:30:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,Sin restricción
+167,18/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,04:40:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+168,18/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AUTOPISTA  CUCUTA,Alvarez,07:15:00 a. m.,AGENTES DTB,14. MORRORICO,Empresa,Diurno,No aplica
+169,18/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Nuevo Sotomayor,06:30:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+170,19/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,07:30:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+171,19/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,0,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,10:20:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+172,19/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,11:40:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+173,19/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,12:36:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,En restricción
+174,19/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE 45 VIA CHIMITA,La Estrella,01:45:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,No aplica
+175,19/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,08:00:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+176,19/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,La Aurora,12:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+177,19/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,CARRERA,Centro,04:45:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+178,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Chapinero,05:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+179,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Morrorico,11:50:00 p. m.,AGENTES DTB,14. MORRORICO,Empresa,Nocturno,No aplica
+180,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,CARRERA,Sotomayor,10:40:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+181,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,El Rocio,02:30:00 p. m.,AGENTES DTB,11. SUR,Empresa,Diurno,No aplica
+182,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,1,0,0,0,0,DIAGONAL 15,La Ceiba,07:20:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,No aplica
+183,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Nuevo Sotomayor,05:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+184,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Aurora,07:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+185,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,11:00:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+186,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Antonia Santos Centro,03:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+187,20/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Antonia Santos Sur,06:50:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+188,20/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,0,1,0,0,0,1,0,0,0,0,ANILLO VIAL,Rio de Oro I,01:30:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+189,20/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,CALLE,La Estrella,05:40:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,Sin restricción
+190,21/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Real de Minas,03:20:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,Sin restricción
+191,21/01/2012,2012,01. Enero,06. Sabado,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,Puerta del Sol,07:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,Sin restricción
+192,21/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Concordia,04:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+193,21/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,AVENIDA Q SECA,Centro,05:20:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+194,21/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Ricaurte,06:50:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,No aplica
+195,21/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,1,0,0,0,CALLE,Centro,11:15:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+196,21/01/2012,2012,01. Enero,06. Sabado,Con Heridos,2,0,0,0,0,0,0,0,0,1,0,0,AVENIDA BUCAROS,Real de Minas,04:00:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,Sin restricción
+197,21/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Pedregosa,06:15:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Nocturno,Sin restricción
+198,21/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Campo Hermoso,08:50:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,Sin restricción
+199,21/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CALLE,El Rocio,01:33:00 p. m.,AGENTES DTB,11. SUR,Particular,Diurno,No aplica
+200,21/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,El Rocio,05:50:00 a. m.,AGENTES DTB,11. SUR,Empresa,Nocturno,No aplica
+201,21/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Centro,03:10:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+202,22/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Girardot,02:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,En restricción
+203,22/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Alarcon,10:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+204,22/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,05:50:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,Sin restricción
+205,22/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,06:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+206,22/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL ORIENTAL,Lagos del Cacique,07:43:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Nocturno,Sin restricción
+207,22/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Antonia Santos Centro,12:35:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,En restricción
+208,22/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,PREDIO URBANO PUENTE EL BUENO,11:15:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Nocturno,Sin restricción
+209,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Alvarez,08:40:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,Sin restricción
+210,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,Ricaurte,02:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+211,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,1,0,0,CARRERA,Alvarez,12:35:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+212,23/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,San Alonso,02:50:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+213,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Sotomayor,05:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+214,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,0,0,0,0,1,1,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Antonia Santos Sur,07:35:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Nocturno,No aplica
+215,23/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,2,0,0,CARRERA,La Concordia,04:05:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+216,23/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,0,0,0,0,0,0,0,0,3,0,0,CARRERA,Alfonso Lopez,06:30:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,Sin restricción
+217,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,BOULEVAR BOLIVAR,San Francisco,08:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+218,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,0,1,0,0,1,0,0,0,0,0,BOULEVAR BOLIVAR,Comuneros,08:45:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+219,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Provenza,10:25:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,Sin restricción
+220,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Lagos del Cacique,03:50:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Empresa,Diurno,No aplica
+221,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,El Rocio,01:00:00 p. m.,AGENTES DTB,11. SUR,Particular,Diurno,No aplica
+222,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Nuevo Sotomayor,09:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+223,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Cabecera del Llano,01:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+224,23/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Modelo,09:20:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+225,23/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,DIAGONAL 15,Ricaurte,03:25:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+226,24/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Ricaurte,10:45:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+227,24/01/2012,2012,01. Enero,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,DIAGONAL,Asturias,08:20:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+228,24/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Bucaramanga,07:30:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Nocturno,No aplica
+229,24/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,El Rocio,09:30:00 a. m.,AGENTES DTB,11. SUR,Particular,Diurno,Sin restricción
+230,25/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA GIRÓN,Bucaramanga,05:00:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Diurno,Sin restricción
+231,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Diamante II,05:45:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+232,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,2,0,1,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Antonia Santos Sur,10:15:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+233,25/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,2,0,0,CARRERA,San Francisco,12:15:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+234,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,0,0,0,0,0,1,0,0,1,0,0,CALLE,Bolarqui,03:10:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+235,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Alarcon,07:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+236,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,TRANSVERSAL ORIENTAL,El Tejar,07:30:00 a. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Diurno,No aplica
+237,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,SIN INFORMACION,04:50:00 p. m.,AGENTES DTB,SIN INFORMACION,Particular,Diurno,No aplica
+238,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE,Cabecera del Llano,10:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+239,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,0,0,0,1,0,1,0,0,0,0,0,TRANSVERSAL METROPOLITANA,PREDIO URBANO PUENTE EL BUENO,12:05:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,No aplica
+240,25/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CALLE,Ricaurte,10:10:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+241,25/01/2012,2012,01. Enero,03. Miercoles,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Universidad,12:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+242,25/01/2012,2012,01. Enero,03. Miercoles,Solo Daños,0,0,0,0,0,0,1,0,0,0,0,0,CALLE 45 VIA CHIMITA,La Estrella,12:30:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,No aplica
+243,26/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AVENIDA LA ROSITA,La Concordia,04:40:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+244,26/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,Centro,07:25:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+245,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE,Sotomayor,02:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+246,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Alvarez,09:14:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+247,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Campo Hermoso,12:30:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,No aplica
+248,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,0,0,0,0,1,0,1,0,0,0,0,CALLE,Campo Hermoso,11:10:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Diurno,No aplica
+249,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,1,0,1,0,0,CARRERA,San Rafael,09:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+250,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,07:30:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+251,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,09:45:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+252,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AUTOPISTA GIRÓN,PREDIO URBANO PUENTE EL BUENO,09:25:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,No aplica
+253,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,CARRERA,Alarcon,11:45:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+254,26/01/2012,2012,01. Enero,04. Jueves,Con Heridos,0,2,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,02:52:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+255,26/01/2012,2012,01. Enero,04. Jueves,Solo Daños,0,0,1,0,0,1,0,0,0,0,0,0,DIAGONAL 15,Ricaurte,06:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,No aplica
+256,27/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,0,1,0,0,1,0,0,0,0,0,0,CARRERA,Garcia Rovira,11:40:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+257,27/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cafe Madrid,10:20:00 a. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+258,27/01/2012,2012,01. Enero,05. Viernes,Con Heridos,2,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Garcia Rovira,12:05:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+259,27/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Gaitan,11:30:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+260,27/01/2012,2012,01. Enero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL METROPOLITANA,El Rocio,12:40:00 p. m.,AGENTES DTB,11. SUR,Empresa,Diurno,Sin restricción
+261,27/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,CALLE,Provenza,03:45:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+262,27/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Bolarqui,07:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,Sin restricción
+263,27/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,08:10:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Nocturno,No aplica
+264,27/01/2012,2012,01. Enero,05. Viernes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,04:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+265,27/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,San Miguel,06:25:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,No aplica
+266,27/01/2012,2012,01. Enero,05. Viernes,Solo Daños,0,2,0,1,0,0,0,0,0,0,0,0,CARRERA,Diamante II,03:40:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+267,28/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,05:10:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+268,28/01/2012,2012,01. Enero,06. Sabado,Con Muertos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Girardot,07:10:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+269,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,0,0,0,0,0,0,2,0,0,0,0,CALLE,Centro,03:15:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+270,28/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA  NORTE,Rio de Oro I,07:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+271,28/01/2012,2012,01. Enero,06. Sabado,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Kennedy,10:00:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,Sin restricción
+272,28/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,11:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,Sin restricción
+273,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,04:10:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,No aplica
+274,28/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,1,1,0,0,0,0,0,0,0,0,0,CALLE,Ricaurte,09:52:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,No aplica
+275,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE,Ricaurte,12:15:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+276,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,SIN INFORMACION,02:40:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+277,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,0,1,0,0,0,0,0,0,1,0,0,CALLE,Asturias,08:15:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,Sin restricción
+278,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,La Concordia,10:30:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+279,28/01/2012,2012,01. Enero,06. Sabado,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,San Francisco,07:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+280,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,0,ANILLO VIAL,Rio de Oro I,04:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+281,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,ANTONIA SANTOS CENTRO,01:45:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+282,28/01/2012,2012,01. Enero,06. Sabado,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Provenza,04:45:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,Sin restricción
+283,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,2,0,0,CALLE,La Aurora,04:20:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+284,28/01/2012,2012,01. Enero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Sotomayor,07:10:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+285,29/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,02:50:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,En restricción
+286,29/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA GIRÓN,Rio de Oro I,04:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,En restricción
+287,29/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,La Aurora,07:40:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+288,29/01/2012,2012,01. Enero,07. Domingo,Solo Daños,0,2,0,1,0,0,0,0,0,0,0,0,CALLE,Centro,08:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+289,29/01/2012,2012,01. Enero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,03:10:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+290,30/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,2,0,0,0,0,0,0,0,0,0,CARRERA,San Francisco,05:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+291,30/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Ricaurte,06:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,Sin restricción
+292,30/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA  GONZALEZ VALENCIA,SIN INFORMACION,07:15:00 a. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+293,30/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Puerta del Sol,11:15:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+294,30/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,0,0,1,0,0,1,0,0,0,0,CARRERA,Canelos,12:30:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,No aplica
+295,30/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,0,1,0,0,0,0,1,0,0,0,CALLE,Mutis,04:20:00 p. m.,AGENTES DTB,17. MUTIS,Empresa,Diurno,No aplica
+296,30/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,0,1,1,0,0,0,0,0,0,0,0,CARRERA,Nuevo Sotomayor,05:50:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+297,30/01/2012,2012,01. Enero,01. Lunes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,San Alonso,04:45:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+298,30/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Cabecera del Llano,09:50:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+299,30/01/2012,2012,01. Enero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,LA CEIBA,12:10:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+300,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Kennedy,04:00:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Diurno,Sin restricción
+301,31/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Universidad,08:10:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+302,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Cabecera del Llano,09:50:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+303,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,0,0,1,0,0,0,1,0,0,0,0,CALLE,La Concordia,09:30:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+304,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Bolarqui,11:05:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+305,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,San Francisco,11:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+306,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,1,0,0,0,0,0,DIAGONAL 15,Ricaurte,03:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+307,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Diamante II,10:15:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+308,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Mutis,12:40:00 p. m.,AGENTES DTB,17. MUTIS,Empresa,Diurno,Sin restricción
+309,31/01/2012,2012,01. Enero,02. Martes,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Alfonso Lopez,01:23:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Diurno,Sin restricción
+310,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,CALLE,Conucos,09:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+311,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Nuevo Sotomayor,07:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+312,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,07:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+313,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,0,1,0,0,1,0,0,0,0,0,0,CARRERA,El Prado,03:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+314,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,06:20:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+315,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,1,0,0,0,0,0,CARRERA,Nuevo Sotomayor,07:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+316,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante I,08:30:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,No aplica
+317,31/01/2012,2012,01. Enero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Rio de Oro I,10:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+318,01/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,08:35:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,Sin restricción
+319,01/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,La Victoria,01:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+320,01/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,1,0,0,1,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,12:10:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+321,01/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,2,0,0,CARRERA,Mejoras Publicas,07:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+322,01/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,1,1,0,0,0,0,0,0,0,0,0,CALLE,Modelo,12:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+323,01/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,CARRERA,La Pedregosa,09:00:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,No aplica
+324,01/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,1,0,0,0,0,0,0,0,0,CALLE,San Francisco,07:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+325,01/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Chapinero,12:50:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+326,01/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Rio de Oro I,03:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+327,02/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL METROPOLITANA,Rio de Oro I,06:05:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+328,02/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CALLE,Terrazas,10:05:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+329,02/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Sotomayor,06:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+330,02/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Ricaurte,07:30:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+331,02/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA Q SECA,Centro,09:50:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+332,02/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE,El Tejar,12:13:00 a. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Empresa,Nocturno,En restricción
+333,02/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Centro,11:40:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+334,03/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,El Prado,11:40:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+335,03/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Chorreras de Don Juan,08:10:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,Sin restricción
+336,03/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,1,0,0,CALLE,San Francisco,07:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+337,03/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Real de Minas,06:15:00 a. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,Sin restricción
+338,03/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,TRANSVERSAL ORIENTAL,Cabecera del Llano,10:40:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+339,04/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Gaitan,05:50:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,Sin restricción
+340,04/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Comuneros,08:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+341,04/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,La Ceiba,03:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+342,04/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,1,0,0,0,0,0,0,CARRERA,Comuneros,09:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+343,04/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Alarcon,04:10:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+344,04/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA BUCAROS,Real de Minas,10:30:00 a. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Diurno,No aplica
+345,04/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,12:35:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+346,04/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Colseguros Norte,10:30:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,Sin restricción
+347,04/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Toledo Plata,03:15:00 p. m.,AGENTES DTB,11. SUR,Particular,Diurno,No aplica
+348,04/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Alarcon,07:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+349,05/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,04:00:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+350,05/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,ROBLES,04:16:00 p. m.,AGENTES DTB,11. SUR,Empresa,Diurno,No aplica
+351,05/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Kennedy,06:00:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Diurno,No aplica
+352,05/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,La Pedregosa,06:28:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+353,05/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CALLE,Centro,10:50:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+354,05/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Gaitan,07:05:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+355,05/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Gaitan,07:10:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+356,05/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,09:35:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+357,05/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,01:10:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+358,05/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL ORIENTAL,El Tejar,09:30:00 a. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Empresa,Diurno,Sin restricción
+359,05/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,DIAGONAL 15,Centro,01:00:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+360,05/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Ricaurte,05:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+361,05/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Bucaramanga,01:10:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Nocturno,En restricción
+362,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,10:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+363,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE,La Ceiba,10:15:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+364,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA SAMANES,Real de Minas,01:40:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Diurno,No aplica
+365,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Conucos,06:50:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+366,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,SIN INFORMACION,04:30:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+367,06/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,09:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,Sin restricción
+368,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,BOULEVAR SANTANDER,San Francisco,07:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,Sin restricción
+369,06/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL METROPOLITANA,Rio de Oro I,11:55:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+370,06/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Centro,04:00:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+371,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,La Pedregosa,02:10:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,No aplica
+372,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Puerta del Sol,06:45:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+373,06/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,09:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+374,07/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Comuneros,07:55:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+375,07/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Comuneros,08:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+376,07/02/2012,2012,02. Febrero,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Ricaurte,06:45:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+377,07/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,San Francisco,08:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+378,07/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,0,AVENIDA Q SECA,Centro,08:50:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+379,07/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,Provenza,06:40:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,Sin restricción
+380,07/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,El Porvenir,06:00:00 a. m.,AGENTES DTB,11. SUR,Empresa,Nocturno,Sin restricción
+381,07/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,San Francisco,11:40:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+382,07/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA  CUCUTA,Morrorico,05:55:00 p. m.,AGENTES DTB,14. MORRORICO,Empresa,Diurno,Sin restricción
+383,07/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Campo Hermoso,07:01:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,Sin restricción
+384,07/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,AVENIDA Q SECA,SIN INFORMACION,05:30:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+385,07/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Kennedy,07:40:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,Sin restricción
+386,07/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,SAN GERARDO II,04:25:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,No aplica
+387,07/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,Centro,08:30:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,No aplica
+388,07/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Conucos,07:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,Sin restricción
+389,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Ricaurte,09:10:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+390,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,CALLE,Ricaurte,12:05:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+391,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Comuneros,06:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+392,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Albania,09:50:00 a. m.,AGENTES DTB,14. MORRORICO,Empresa,Diurno,No aplica
+393,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,CALLE,Garcia Rovira,08:00:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+394,08/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Centro,09:20:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+395,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,09:15:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+396,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,Centro,08:10:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+397,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,08:10:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+398,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,03:30:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+399,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,San Francisco,08:05:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+400,08/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,1,1,0,0,0,0,0,0,1,0,0,CARRERA,San Alonso,09:15:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,Sin restricción
+401,08/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,1,CARRERA,Comuneros,01:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+402,08/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,DIAGONAL,Provenza,03:40:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+403,09/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Garcia Rovira,06:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+404,09/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Alonso,12:45:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+405,09/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Rio de Oro I,06:50:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+406,09/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Sotomayor,12:25:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+407,09/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,0,1,0,0,0,0,0,0,1,0,0,CALLE,Provenza,05:00:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,Sin restricción
+408,09/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,Centro,07:15:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,No aplica
+409,09/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,0,0,1,0,1,0,0,0,0,0,0,AVENIDA Q SECA,Alarcon,12:10:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+410,10/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante I,06:30:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Nocturno,No aplica
+411,10/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,El Prado,11:49:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+412,10/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Rio de Oro I,07:10:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+413,10/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Manzanares,11:40:00 a. m.,AGENTES DTB,17. MUTIS,Empresa,Diurno,Sin restricción
+414,10/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,CALLE,San Francisco,04:50:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+415,10/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Ricaurte,07:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+416,10/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Antonia Santos Centro,02:00:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+417,10/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Mutis,07:40:00 p. m.,AGENTES DTB,17. MUTIS,Empresa,Nocturno,Sin restricción
+418,10/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,0,0,0,0,1,0,0,0,0,0,1,CARRERA,Centro,04:30:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+419,10/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,San Alonso,07:15:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+420,10/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,0,0,0,0,0,1,0,0,1,0,0,CALLE,San Francisco,03:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+421,10/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,06:08:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+422,10/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Rio de Oro I,02:10:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,En restricción
+423,11/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Centro,11:20:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,Sin restricción
+424,11/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Alarcon,10:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,Sin restricción
+425,11/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Mejoras Publicas,01:00:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+426,11/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,0,0,0,0,0,1,0,0,1,0,0,AUTOPISTA GIRÓN,Juan XXIII,02:10:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,Sin restricción
+427,11/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Puerta del Sol,06:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+428,11/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Comuneros,07:20:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+429,11/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Puerta del Sol,04:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+430,11/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Alfonso Lopez,08:15:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,No aplica
+431,11/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,CALLE,Ricaurte,10:50:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,No aplica
+432,11/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,Ricaurte,09:45:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,Sin restricción
+433,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Rio de Oro I,04:45:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+434,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Los Pinos,08:10:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,No aplica
+435,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Alarcon,09:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+436,12/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,La Victoria,03:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+437,12/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,ANILLO VIAL,Rio de Oro I,06:40:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+438,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,0,1,0,0,0,0,0,0,0,0,0,CALLE,SIN INFORMACION,01:40:00 p. m.,AGENTES DTB,SIN INFORMACION,Particular,Diurno,No aplica
+439,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,SIN INFORMACION,11:40:00 a. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+440,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CALLE,El Prado,10:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+441,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,SIN INFORMACION,02:00:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+442,12/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,04:00:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+443,12/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL,Provenza,03:40:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Nocturno,En restricción
+444,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CALLE,Ricaurte,02:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,No aplica
+445,12/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,SANTA BARBARA,09:30:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Nocturno,No aplica
+446,13/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,0,0,0,0,0,0,0,0,1,1,0,CALLE,La Joya,06:30:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,Sin restricción
+447,13/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,Puerta del Sol,06:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,Sin restricción
+448,13/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,0,0,0,0,0,0,0,0,0,0,2,ANILLO VIAL,Rio de Oro I,10:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+449,13/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,ANILLO VIAL,Rio de Oro I,07:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+450,13/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,AUTOPISTA  NORTE,Norte Bajo,06:20:00 a. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Diurno,Sin restricción
+451,13/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Quebrada la Iglesia II,12:49:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,Sin restricción
+452,13/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Diamante II,12:40:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,Sin restricción
+453,13/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,AVENIDA,SIN INFORMACION,11:45:00 a. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+454,13/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Mutis,12:30:00 p. m.,AGENTES DTB,17. MUTIS,Empresa,Diurno,Sin restricción
+455,13/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Rio de Oro I,06:20:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+456,13/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,0,0,0,1,0,0,0,0,1,0,0,CARRERA,Centro,03:45:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,En restricción
+457,14/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,2,0,0,0,0,0,0,0,1,0,0,CALLE,Bolarqui,11:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+458,14/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Puerta del Sol,05:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+459,14/02/2012,2012,02. Febrero,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,BOULEVAR SANTANDER,Comuneros,06:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,Sin restricción
+460,14/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA  EL JARDIN,Pan de Azucar,09:45:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+461,14/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,3,0,0,0,0,0,0,0,0,0,0,CALLE,Alfonso Lopez,06:40:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,No aplica
+462,14/02/2012,2012,02. Febrero,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,La Concordia,03:15:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+463,14/02/2012,2012,02. Febrero,02. Martes,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CALLE,La Aurora,05:50:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+464,14/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,0,0,0,1,0,0,0,0,2,0,0,CARRERA,Garcia Rovira,08:45:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,Sin restricción
+465,14/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,05:10:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+466,14/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Mutis,02:00:00 p. m.,AGENTES DTB,17. MUTIS,Empresa,Diurno,Sin restricción
+467,14/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AVENIDA  GONZALEZ VALENCIA,Nuevo Sotomayor,08:26:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+468,14/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,01:40:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+469,15/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,San Alonso,11:00:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+470,15/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Rio de Oro I,05:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+471,15/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,SIN INFORMACION,04:30:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,Sin restricción
+472,15/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,San Alonso,07:50:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+473,15/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Sotomayor,12:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+474,15/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL ORIENTAL,SIN INFORMACION,01:40:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,Sin restricción
+475,15/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Campo Hermoso,03:00:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Diurno,No aplica
+476,15/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,La Concordia,03:24:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+477,15/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,La Aurora,12:00:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+478,15/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,03:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+479,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Centro,06:00:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,Sin restricción
+480,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Rio de Oro I,11:20:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+481,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Alvarez,02:35:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+482,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,0,0,1,0,0,0,0,0,0,0,0,CALLE 45 VIA CHIMITA,La Estrella,08:30:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,No aplica
+483,16/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,Alarcon,06:15:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+484,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,0,1,0,0,0,0,1,0,0,0,0,CALLE,San Francisco,12:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+485,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Puerta del Sol,02:50:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+486,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Puerta del Sol,03:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+487,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CALLE,La Concordia,05:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+488,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Antonia Santos Centro,08:40:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+489,16/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,1,0,0,0,0,1,0,0,CARRERA,Mutis,01:00:00 p. m.,AGENTES DTB,17. MUTIS,Empresa,Diurno,Sin restricción
+490,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,BOULEVAR BOLIVAR,San Francisco,09:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+491,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Centro,04:30:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+492,16/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA  NORTE,Kennedy,06:40:00 a. m.,AGENTES DTB,01. NORTE,Empresa,Diurno,Sin restricción
+493,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,1,CARRERA,San Francisco,11:10:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+494,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,La Aurora,08:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+495,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Alarcon,11:20:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+496,16/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,1,0,0,0,0,0,0,0,0,0,0,1,AUTOPISTA  NORTE,Rio de Oro I,03:40:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+497,16/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,2,0,1,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,07:30:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+498,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,0,0,1,1,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,04:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+499,17/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Comuneros,10:10:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+500,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,CABECERA DEL LLANO,10:10:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+501,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Universidad,05:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+502,17/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,San Gerardo,03:20:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,Sin restricción
+503,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE,Campo Hermoso,07:40:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,No aplica
+504,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Centro,11:50:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,No aplica
+505,17/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,Diamante I,08:30:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+506,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,2,0,1,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,SIN INFORMACION,08:20:00 a. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+507,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Cabecera del Llano,04:25:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+508,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,La Ceiba,07:40:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,Sin restricción
+509,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CALLE,Centro,05:30:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+510,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,0,0,0,0,1,0,0,0,1,0,0,CALLE,Real de Minas,03:35:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Diurno,Sin restricción
+511,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,SIN INFORMACION,04:45:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+512,17/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Mutis,10:40:00 a. m.,AGENTES DTB,17. MUTIS,Empresa,Diurno,Sin restricción
+513,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,0,0,0,0,1,0,1,0,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,04:10:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+514,17/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Mejoras Publicas,12:25:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+515,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Provenza,08:30:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,Sin restricción
+516,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,0,0,2,0,0,0,0,0,0,0,0,AVENIDA Q SECA,Centro,04:55:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,No aplica
+517,17/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Joya,03:05:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,Sin restricción
+518,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AVENIDA  EL JARDIN,CABECERA DEL LLANO,06:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+519,17/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CALLE,La Victoria,06:05:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+520,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,San Alonso,12:50:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+521,18/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,SIN INFORMACION,12:00:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+522,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Sotomayor,07:30:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+523,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,0,0,1,0,0,0,1,0,0,0,0,CARRERA,San Francisco,11:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+524,18/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,12:25:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+525,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,3,0,0,0,0,0,1,0,0,0,0,CARRERA,SIN INFORMACION,08:45:00 a. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+526,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,0,VIA CARRASCO,Rio de Oro I,06:35:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+527,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Comuneros,09:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,No aplica
+528,18/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,1,1,0,ANILLO VIAL,Cafe Madrid,05:30:00 p. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+529,18/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Bucaramanga,01:20:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,Sin restricción
+530,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Centro,03:15:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+531,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Nuevo Sotomayor,10:40:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+532,18/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Nuevo Sotomayor,11:45:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+533,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Centro,06:40:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,Sin restricción
+534,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Diamante II,08:30:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+535,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Rio de Oro I,02:40:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+536,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,TRANSVERSAL ORIENTAL,SIN INFORMACION,02:40:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+537,18/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Centro,03:00:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+538,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,El Tejar,06:30:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Nocturno,No aplica
+539,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Norte Bajo,03:15:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+540,18/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Sotomayor,11:40:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+541,19/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Cabecera del Llano,11:30:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+542,19/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE 45 VIA CHIMITA,La Estrella,06:00:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,Sin restricción
+543,19/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,1,AUTOPISTA  NORTE,Villa Mercedes,06:40:00 a. m.,AGENTES DTB,02. NORORIENTAL,Particular,Diurno,Sin restricción
+544,19/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA  CUCUTA,Morrorico,01:00:00 a. m.,AGENTES DTB,14. MORRORICO,Particular,Nocturno,En restricción
+545,19/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,ANILLO VIAL,Cafe Madrid,07:50:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,Sin restricción
+546,19/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,PREDIO URBANO PUENTE EL BUENO,12:50:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Diurno,Sin restricción
+547,19/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,0,0,0,0,1,1,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Rio de Oro I,12:05:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+548,19/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,0,1,0,0,0,0,1,0,0,AVENIDA LA ROSITA,La Concordia,06:50:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,Sin restricción
+549,20/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,3,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Puerta del Sol,02:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+550,20/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Gomez Niño,12:20:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,No aplica
+551,20/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,1,0,0,0,0,0,AVENIDA LA ROSITA,Alarcon,04:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+552,20/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,07:10:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+553,20/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,La Concordia,07:30:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+554,20/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,10:15:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+555,20/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,BOULEVAR SANTANDER,San Francisco,07:05:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+556,20/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Nuevo Sotomayor,02:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+557,20/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,11:40:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+558,21/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Real de Minas,07:50:00 a. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,No aplica
+559,21/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,10:35:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+560,21/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,BOULEVAR BOLIVAR,San Francisco,07:41:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+561,21/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,0,0,0,0,1,0,0,0,0,0,0,CARRERA,San Rafael,05:10:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+562,21/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante I,01:50:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+563,21/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Provenza,11:10:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,No aplica
+564,21/02/2012,2012,02. Febrero,02. Martes,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CALLE,Universidad,06:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,No aplica
+565,21/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AVENIDA BUCAROS,San Francisco,09:55:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+566,21/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Bosque norte,09:45:00 p. m.,AGENTES DTB,02. NORORIENTAL,Particular,Nocturno,No aplica
+567,21/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Centro,01:00:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+568,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CALLE,La Feria,06:50:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+569,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Provenza,10:50:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+570,22/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,0,0,1,0,0,0,0,0,0,CARRERA,LA CANTERA-EL CERRO,02:00:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,No aplica
+571,22/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Rio de Oro I,04:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,Sin restricción
+572,22/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Concordia,11:30:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+573,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,Modelo,10:15:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+574,22/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,06:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+575,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Provenza,02:40:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+576,22/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,1,CARRERA,San Rafael,07:15:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,No aplica
+577,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,AVENIDA Q SECA,Centro,07:40:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,Sin restricción
+578,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,1,0,1,0,0,AVENIDA Q SECA,Alarcon,09:40:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+579,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,1,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Centro,07:10:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+580,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Africa,02:00:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,Sin restricción
+581,22/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,ANILLO VIAL,Cafe Madrid,06:45:00 p. m.,AGENTES DTB,01. NORTE,Particular,Nocturno,Sin restricción
+582,23/02/2012,2012,02. Febrero,04. Jueves,Con Muertos,0,0,0,0,1,0,0,0,0,1,0,0,TRANSVERSAL METROPOLITANA,SIN INFORMACION,01:05:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,Sin restricción
+583,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AVENIDA LA ROSITA,Bolivar,11:20:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+584,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,AVENIDA Q SECA,Centro,12:30:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+585,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Rio de Oro I,05:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+586,23/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,DIAGONAL,Cabecera del Llano,11:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+587,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,La Aurora,04:00:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+588,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,1,0,0,1,0,0,0,0,0,0,0,0,CALLE,Ricaurte,04:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+589,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,0,0,1,0,0,0,0,0,AUTOPISTA GIRÓN,Bucaramanga,09:30:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Nocturno,No aplica
+590,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Alarcon,09:48:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+591,23/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,1,0,0,0,0,1,0,0,0,0,0,CALLE,San Francisco,08:05:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+592,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,La Aurora,11:00:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+593,23/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,0,0,1,0,0,0,1,0,0,0,0,CARRERA,Centro,11:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+594,23/02/2012,2012,02. Febrero,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Diamante I,01:00:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,No aplica
+595,23/02/2012,2012,02. Febrero,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Antonia Santos Centro,02:50:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+596,24/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Bucaramanga,12:02:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Nocturno,En restricción
+597,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,05:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+598,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Universidad,03:50:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+599,24/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,CALLE,Ciudad Venecia,05:05:00 p. m.,AGENTES DTB,11. SUR,Particular,Diurno,Sin restricción
+600,24/02/2012,2012,02. Febrero,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,VIA MATANZA,Bucaramanga,07:40:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Nocturno,Sin restricción
+601,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,La Salle,05:20:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+602,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,Girardot,06:05:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,Sin restricción
+603,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,DIAGONAL 15,Centro,07:15:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,No aplica
+604,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,CARRERA,Antiguo Campestre,04:50:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+605,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA LA ROSITA,La Concordia,09:40:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+606,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,0,0,0,0,0,0,1,1,0,0,0,AUTOPISTA GIRÓN,Bucaramanga,12:10:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,No aplica
+607,24/02/2012,2012,02. Febrero,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Ricaurte,08:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+608,25/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Cabecera del Llano,12:10:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,En restricción
+609,25/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,1,1,0,AUTOPISTA  NORTE,Rio de Oro I,09:55:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+610,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,San Francisco,03:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+611,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,BOULEVAR BOLIVAR,San Francisco,04:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+612,25/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,05:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+613,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Lagos del Cacique,09:30:00 a. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Diurno,Sin restricción
+614,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Gaitan,09:10:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+615,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,04:30:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+616,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,El Prado,09:50:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+617,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,TRANSVERSAL ORIENTAL,El Tejar,10:29:00 a. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Diurno,No aplica
+618,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Cabecera del Llano,10:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+619,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AUTOPISTA  NORTE,San Rafael,11:00:00 a. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Diurno,No aplica
+620,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,11:45:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+621,25/02/2012,2012,02. Febrero,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,12:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+622,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Antonia Santos Sur,03:00:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+623,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,CONUCOS,03:45:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+624,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,0,0,1,0,0,1,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,04:00:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+625,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,04:30:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,No aplica
+626,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Diamante II,02:30:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,No aplica
+627,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Antonia Santos Centro,05:40:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+628,25/02/2012,2012,02. Febrero,06. Sabado,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,BOULEVAR BOLIVAR,San Francisco,05:20:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+629,26/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Provenza,02:20:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Nocturno,En restricción
+630,26/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,0,1,0,CALLE,Kennedy,10:30:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,No aplica
+631,26/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,1,0,0,0,CARRERA,Ricaurte,07:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+632,26/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Conucos,01:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,En restricción
+633,26/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,San Rafael,02:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+634,26/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AVENIDA Q SECA,Alarcon,06:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+635,26/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,La Feria,10:20:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,Sin restricción
+636,26/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Alarcon,12:25:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+637,26/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Real de Minas,12:45:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,No aplica
+638,26/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Nuevo Sotomayor,01:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+639,26/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,0,2,1,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Gomez Niño,02:20:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+640,26/02/2012,2012,02. Febrero,07. Domingo,Con Muertos,0,0,0,0,1,0,0,0,0,1,0,0,CARRERA,Centro,06:10:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,Sin restricción
+641,26/02/2012,2012,02. Febrero,07. Domingo,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,03:10:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+642,26/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Campo Hermoso,06:00:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Diurno,Sin restricción
+643,26/02/2012,2012,02. Febrero,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Miguel,08:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,Sin restricción
+644,27/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,ANILLO VIAL,Rio de Oro I,07:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+645,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Provenza,08:20:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+646,27/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Mutualidad,05:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,Sin restricción
+647,27/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Alarcon,06:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+648,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA Q SECA,Garcia Rovira,03:18:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+649,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,2,0,0,0,0,CALLE,Girardot,04:15:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+650,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,0,1,0,0,0,1,0,0,1,0,0,CALLE,Villa Helena I,04:40:00 p. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Diurno,Sin restricción
+651,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,SIN INFORMACION,08:30:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Nocturno,No aplica
+652,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,0,0,0,0,0,1,0,0,0,0,0,ANILLO VIAL,Cafe Madrid,09:20:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,No aplica
+653,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Alarcon,05:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+654,27/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Conucos,07:45:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+655,27/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,1,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,12:15:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+656,27/02/2012,2012,02. Febrero,01. Lunes,Con Muertos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Villa Mercedes,08:35:00 a. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Diurno,Sin restricción
+657,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,03:30:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+658,27/02/2012,2012,02. Febrero,01. Lunes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Campo Hermoso,05:05:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Diurno,Sin restricción
+659,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,1,AUTOPISTA  NORTE,Garcia Rovira,08:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+660,27/02/2012,2012,02. Febrero,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,1,CARRERA,La Ceiba,04:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+661,28/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,06:45:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,Sin restricción
+662,28/02/2012,2012,02. Febrero,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Terrazas,06:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,Sin restricción
+663,28/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL METROPOLITANA,Bucaramanga,09:50:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Nocturno,Sin restricción
+664,28/02/2012,2012,02. Febrero,02. Martes,Con Heridos,1,0,0,1,0,0,0,0,0,0,0,0,CARRERA,Alarcon,06:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+665,28/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Alvarez,11:25:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,Sin restricción
+666,28/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,TRANSVERSAL ORIENTAL,EL TEJAR,11:40:00 a. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Empresa,Diurno,No aplica
+667,28/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE,SAN FRANCISCO,10:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+668,28/02/2012,2012,02. Febrero,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,La Feria,12:20:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+669,28/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,1,0,0,0,1,0,0,0,0,CALLE,San Francisco,05:35:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+670,28/02/2012,2012,02. Febrero,02. Martes,Con Muertos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Antonia Santos Centro,07:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+671,28/02/2012,2012,02. Febrero,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Alvarez,12:50:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+672,28/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Nuevo Sotomayor,03:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+673,28/02/2012,2012,02. Febrero,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Diamante I,09:00:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Nocturno,No aplica
+674,29/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Real de Minas,12:15:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Diurno,Sin restricción
+675,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,Terrazas,01:10:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+676,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,0,0,1,1,0,0,0,0,0,CARRERA,Antonia Santos Centro,04:20:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+677,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,La Aurora,07:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+678,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Floresta,06:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+679,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,1,1,0,0,0,0,0,0,0,0,CARRERA,San Francisco,10:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+680,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,Centro,03:30:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+681,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Alvarez,10:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+682,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Centro,10:20:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+683,29/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Comuneros,11:20:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+684,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,0,0,2,0,0,0,0,0,0,CARRERA,CONUCOS,07:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+685,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,08:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+686,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,1,0,1,0,0,0,0,0,0,CARRERA,Chapinero,10:05:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+687,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Centro,10:50:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+688,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Sotomayor,10:15:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+689,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CALLE,Universidad,11:10:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+690,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,0,0,0,0,1,1,0,0,0,0,0,CARRERA,Universidad,12:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+691,29/02/2012,2012,02. Febrero,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,ANILLO VIAL,Cafe Madrid,12:40:00 p. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+692,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Conucos,07:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+693,29/02/2012,2012,02. Febrero,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,CALLE,Nuevo Sotomayor,03:55:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+694,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Centro,03:10:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+695,01/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,0,0,1,0,0,0,0,1,0,0,CARRERA,Diamante I,05:14:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+696,01/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Bolarqui,07:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+697,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Garcia Rovira,05:25:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+698,01/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,04:30:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+699,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Terrazas,02:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+700,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Aurora,04:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+701,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Campo Hermoso,06:40:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,Sin restricción
+702,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,SIN INFORMACION,05:30:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,Sin restricción
+703,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Alvarez,09:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+704,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Albania,02:20:00 a. m.,AGENTES DTB,14. MORRORICO,Empresa,Nocturno,En restricción
+705,01/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,1,0,0,0,0,0,CARRERA,Centro,12:20:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+706,01/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,0,0,0,0,0,0,1,0,1,0,0,CALLE,Centro,11:30:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+707,01/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,San Francisco,01:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+708,01/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA  NORTE,Colorados,03:00:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Diurno,Sin restricción
+709,01/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,0,1,0,0,0,1,0,0,0,0,CALLE,Nariño,01:50:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+710,01/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,La Libertad,01:00:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+711,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,AVENIDA Q SECA,San Alonso,07:50:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+712,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Antonia Santos Sur,04:30:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+713,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,1,1,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,08:10:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,No aplica
+714,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,1,0,0,0,1,0,0,0,0,CALLE,La Feria,03:30:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+715,02/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,2,0,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,06:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+716,02/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE 45 VIA CHIMITA,Campo Hermoso,07:29:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,Sin restricción
+717,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,0,0,1,1,0,0,0,0,0,0,0,CARRERA,Universidad,11:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+718,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,CALLE,La Concordia,08:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,No aplica
+719,02/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA  NORTE,San Rafael,10:10:00 p. m.,AGENTES DTB,02. NORORIENTAL,Particular,Nocturno,Sin restricción
+720,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AVENIDA BUCAROS,Real de Minas,06:10:00 a. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Diurno,No aplica
+721,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Alvarez,10:00:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+722,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,06:10:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+723,02/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Aurora,07:15:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,Sin restricción
+724,03/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,SIN INFORMACION,10:00:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Nocturno,No aplica
+725,03/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,SIN INFORMACION,01:40:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+726,03/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,TRANSVERSAL ORIENTAL,SIN INFORMACION,04:10:00 p. m.,AGENTES DTB,SIN INFORMACION,Empresa,Diurno,No aplica
+727,03/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,La Juventud,08:35:00 p. m.,AGENTES DTB,02. NORORIENTAL,Empresa,Nocturno,Sin restricción
+728,03/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,San Francisco,07:45:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+729,03/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Real de Minas,12:20:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Diurno,No aplica
+730,03/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,2,0,0,0,0,0,0,0,0,CARRERA,San Miguel,02:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+731,03/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Rio de Oro I,01:05:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,Sin restricción
+732,03/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,10:45:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+733,03/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CALLE,Centro,01:00:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+734,03/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,CALLE,Antonia Santos Centro,10:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,Sin restricción
+735,03/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Campo Hermoso,05:40:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Diurno,Sin restricción
+736,03/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,1,1,0,ANILLO VIAL,Cafe Madrid,07:00:00 a. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+737,04/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Cabecera del Llano,02:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+738,04/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,3,0,0,0,0,0,0,0,0,0,0,CARRERA,Antonia Santos Centro,04:45:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+739,04/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Alfonso Lopez,01:25:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Nocturno,No aplica
+740,04/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,ANILLO VIAL,Rio de Oro I,08:30:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+741,04/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Mejoras Publicas,07:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,Sin restricción
+742,05/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Alarcon,03:50:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+743,05/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Antonia Santos Centro,05:20:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+744,05/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Concordia,07:10:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,Sin restricción
+745,05/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,El Prado,07:15:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+746,05/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Diamante II,09:00:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+747,05/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Aurora,09:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,Sin restricción
+748,05/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Ricaurte,02:05:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+749,05/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Universidad,08:25:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,Sin restricción
+750,05/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Mejoras Publicas,04:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+751,05/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,05:20:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+752,05/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL METROPOLITANA,Rio de Oro I,06:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Nocturno,Sin restricción
+753,05/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AVENIDA Q SECA,Alarcon,12:18:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+754,05/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,1,0,0,0,0,0,CARRERA,Olas II,04:00:00 p. m.,AGENTES DTB,02. NORORIENTAL,Particular,Diurno,No aplica
+755,05/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,ANILLO VIAL,Rio de Oro I,05:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+756,05/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE,Comuneros,09:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+757,06/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Alfonso Lopez,12:10:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,Sin restricción
+758,06/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,0,0,0,0,0,0,0,0,1,0,1,CALLE,Girardot,05:15:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,Sin restricción
+759,06/03/2012,2012,03. Marzo,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,ANILLO VIAL,Rio de Oro I,06:45:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,Sin restricción
+760,06/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE,Sotomayor,01:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+761,06/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,0,0,0,CALLE,El Prado,10:57:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,No aplica
+762,06/03/2012,2012,03. Marzo,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,La Aurora,12:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,En restricción
+763,06/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,La Concordia,12:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+764,06/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,0,1,0,0,1,0,0,0,0,0,0,CARRERA,La Concordia,05:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+765,06/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Mejoras Publicas,01:40:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,No aplica
+766,06/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Conucos,09:30:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+767,06/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Diamante II,05:00:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,No aplica
+768,06/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,04:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+769,06/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Centro,12:25:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+770,06/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Puerta del Sol,10:45:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+771,06/03/2012,2012,03. Marzo,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Bolivar,12:45:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+772,07/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,1,AUTOPISTA  NORTE,Villa Mercedes,05:50:00 a. m.,AGENTES DTB,02. NORORIENTAL,Particular,Nocturno,Sin restricción
+773,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,02:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+774,07/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,1,CALLE,Comuneros,05:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+775,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,0,1,1,0,0,0,0,0,0,0,0,CARRERA,Alvarez,03:50:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+776,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,1,AUTOPISTA  NORTE,Norte Bajo,02:30:00 p. m.,AGENTES DTB,02. NORORIENTAL,Particular,Diurno,No aplica
+777,07/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,El Prado,07:15:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,Sin restricción
+778,07/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AVENIDA LA ROSITA,Mejoras Publicas,09:20:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+779,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AUTOPISTA GIRÓN,Nueva Granada,10:07:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+780,07/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Puerta del Sol,02:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+781,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AUTOPISTA GIRÓN,Bucaramanga,03:40:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Diurno,No aplica
+782,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,1,0,0,TRANSVERSAL METROPOLITANA,PREDIO URBANO PUENTE EL BUENO,07:05:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Diurno,Sin restricción
+783,07/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,Gomez Niño,08:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+784,07/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,VIADUCTO LA FLORA(NO BARRIO),01:00:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,Sin restricción
+785,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,ANILLO VIAL,Bucaramanga,06:35:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,No aplica
+786,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,AVENIDA Q SECA,Centro,09:00:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+787,07/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,CALLE,Ricaurte,10:45:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+788,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,1,0,0,1,0,0,0,0,0,0,AVENIDA LA ROSITA,La Concordia,09:30:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+789,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,CALLE,Centro,06:45:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,No aplica
+790,08/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,0,0,0,0,1,0,0,0,0,0,0,CALLE,La Aurora,06:48:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+791,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,2,AUTOPISTA  NORTE,Cafe Madrid,04:50:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Diurno,No aplica
+792,08/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CARRERA,La Aurora,06:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+793,08/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,La Concordia,01:25:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+794,08/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Centro,09:10:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,Sin restricción
+795,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,10:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+796,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,10:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+797,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,07:00:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,Sin restricción
+798,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,San Francisco,12:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+799,08/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,Universidad,06:55:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+800,08/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,2,0,1,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,02:00:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,Sin restricción
+801,08/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,0,0,0,1,0,0,0,0,1,0,0,CARRERA,La Concordia,07:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Nocturno,Sin restricción
+802,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,1,0,0,0,0,0,0,1,0,0,CALLE,Ricaurte,08:30:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+803,08/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,1,0,0,0,1,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Diamante II,10:50:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+804,09/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE,Garcia Rovira,08:00:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+805,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Nuevo Sotomayor,03:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+806,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,ANILLO VIAL,Rio de Oro I,05:40:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+807,09/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,CALLE,Centro,07:00:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,Sin restricción
+808,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,0,0,1,0,0,0,1,0,0,0,0,CALLE,Comuneros,09:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+809,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,0,AUTOPISTA GIRÓN,Bucaramanga,02:15:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Nocturno,No aplica
+810,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Comuneros,02:15:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+811,09/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,San Francisco,06:17:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+812,09/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Centro,07:00:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+813,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AVENIDA Q SECA,La Aurora,07:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+814,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Pedregosa,02:00:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Empresa,Diurno,No aplica
+815,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,La Aurora,01:35:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+816,09/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Rio de Oro I,06:30:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,Sin restricción
+817,09/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE 45 VIA CHIMITA,Rio de Oro I,07:30:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,Sin restricción
+818,09/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,El Prado,05:50:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,Sin restricción
+819,09/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,ANILLO VIAL,Rio de Oro I,05:10:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+820,09/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,0,0,0,0,0,1,0,0,0,0,0,AUTOPISTA GIRÓN,Bucaramanga,12:30:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,No aplica
+821,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Centro,09:40:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+822,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Conucos,10:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+823,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,03:30:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+824,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Pan de Azucar,03:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+825,10/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Sotomayor,08:58:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+826,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,3,0,0,0,0,0,0,0,0,0,0,CARRERA,CAMPESTRE,11:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+827,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Gomez Niño,04:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+828,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,Centro,07:30:00 a. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+829,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Mercedes,08:30:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+830,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,08:30:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+831,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Santander,12:15:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,Sin restricción
+832,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Gomez Niño,07:31:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,Sin restricción
+833,10/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Conucos,06:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+834,11/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,01:28:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+835,11/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Diamante I,03:20:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Nocturno,No aplica
+836,11/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Alfonso Lopez,11:55:00 a. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,Sin restricción
+837,11/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AVENIDA LA ROSITA,La Concordia,12:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+838,11/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,03:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+839,11/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA  NORTE,Norte Bajo,06:30:00 p. m.,AGENTES DTB,02. NORORIENTAL,Particular,Nocturno,No aplica
+840,11/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,San Martin,08:45:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Nocturno,Sin restricción
+841,11/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE 45 VIA CHIMITA,Rio de Oro I,12:10:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,En restricción
+842,11/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,1,0,0,CALLE,Monterredondo,01:40:00 a. m.,AGENTES DTB,17. MUTIS,Particular,Nocturno,En restricción
+843,11/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Conucos,03:15:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,En restricción
+844,11/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,San Alonso,09:20:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,Sin restricción
+845,11/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,2,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Puerta del Sol,08:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,Sin restricción
+846,11/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AVENIDA GUAYACANES,Real de Minas,05:15:00 a. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Nocturno,No aplica
+847,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Cabecera del Llano,06:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+848,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Centro,05:30:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+849,12/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,ANILLO VIAL,LA ESMERALDA,11:10:00 a. m.,AGENTES DTB,18. CORREG. 1,Particular,Diurno,Sin restricción
+850,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,06:30:00 a. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,No aplica
+851,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Santander,12:40:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,Sin restricción
+852,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,1,0,0,0,0,0,0,0,CALLE,Rio de Oro I,09:10:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+853,12/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,La Aurora,11:00:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+854,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,03:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+855,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,05:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+856,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CARRERA,Sotomayor,06:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+857,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,1,0,0,0,BOULEVAR BOLIVAR,San Francisco,02:20:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+858,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,07:10:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+859,12/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,Cabecera del Llano,12:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+860,12/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,AUTOPISTA  NORTE,Colorados,08:40:00 a. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+861,12/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,1,0,0,1,0,0,0,0,0,0,0,0,CALLE,Provenza,06:40:00 a. m.,AGENTES DTB,10. PROVENZA,Empresa,Diurno,No aplica
+862,13/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,0,0,2,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Ciudad Venecia,08:55:00 p. m.,AGENTES DTB,11. SUR,Particular,Nocturno,No aplica
+863,13/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,Cabecera del Llano,04:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+864,13/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,El Rocio,10:00:00 a. m.,AGENTES DTB,11. SUR,Particular,Diurno,No aplica
+865,13/03/2012,2012,03. Marzo,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,La Concordia,11:53:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+866,13/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Alarcon,07:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+867,13/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CARRERA,Cabecera del Llano,04:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+868,13/03/2012,2012,03. Marzo,02. Martes,Con Heridos,1,0,0,0,0,0,0,1,0,0,0,0,CARRERA,San Rafael,11:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+869,13/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,0,1,0,BOULEVAR SANTANDER,San Francisco,05:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+870,13/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,0,2,0,0,0,0,0,0,0,0,0,CARRERA,Mejoras Publicas,05:55:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,No aplica
+871,13/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Sotomayor,07:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,Sin restricción
+872,13/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,1,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Puerta del Sol,06:55:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+873,13/03/2012,2012,03. Marzo,02. Martes,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Alarcon,05:15:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+874,14/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,0,0,0,0,0,0,2,0,0,0,0,AUTOPISTA  NORTE,Vijagual,10:30:00 p. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,No aplica
+875,14/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Bolarqui,06:50:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+876,14/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Alfonso Lopez,04:30:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Diurno,No aplica
+877,14/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Concordia,12:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+878,14/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,0,0,0,1,0,0,0,0,1,0,0,CALLE,La Victoria,06:55:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,Sin restricción
+879,14/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Nuevo Sotomayor,04:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+880,14/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,San Francisco,06:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+881,14/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,08:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,No aplica
+882,14/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Floresta,06:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+883,14/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Bucaramanga,07:10:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Nocturno,Sin restricción
+884,14/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,El Prado,07:05:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,No aplica
+885,14/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Alvarez,07:50:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,No aplica
+886,14/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AVENIDA  GONZALEZ VALENCIA,Sotomayor,07:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+887,15/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,08:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+888,15/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,0,0,0,0,0,0,1,0,0,1,AUTOPISTA  CUCUTA,Morrorico,12:40:00 p. m.,AGENTES DTB,14. MORRORICO,Empresa,Diurno,No aplica
+889,15/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Girardot,10:10:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+890,15/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,Sotomayor,12:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+891,15/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,1,0,0,0,1,0,0,AVENIDA  GONZALEZ VALENCIA,Sotomayor,10:05:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+892,15/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,0,1,0,0,0,0,0,0,0,1,CARRERA,Provenza,02:20:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Diurno,No aplica
+893,15/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE,San Alonso,06:50:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Nocturno,Sin restricción
+894,15/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,San Martin,08:25:00 a. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+895,15/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,05:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+896,16/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Alarcon,02:20:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Nocturno,No aplica
+897,16/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Floresta,04:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+898,16/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,1,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Bucaramanga,08:20:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Particular,Diurno,No aplica
+899,16/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Concordia,03:25:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+900,16/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,2,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,07:15:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+901,16/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE,SANTA BARBARA,09:00:00 a. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Diurno,No aplica
+902,16/03/2012,2012,03. Marzo,05. Viernes,Con Muertos,1,1,0,0,0,0,0,0,0,0,0,0,TRANSVERSAL METROPOLITANA,Ciudad Venecia,06:54:00 a. m.,AGENTES DTB,11. SUR,Empresa,Diurno,No aplica
+903,16/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,1,0,0,0,0,0,CARRERA,Cabecera del Llano,05:50:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+904,16/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,1,0,0,0,0,0,1,0,0,BOULEVAR BOLIVAR,Alarcon,09:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+905,16/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CALLE,Universidad,02:40:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+906,16/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,07:00:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,Sin restricción
+907,16/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,0,0,1,AUTOPISTA  NORTE,Morrorico,12:40:00 a. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,No aplica
+908,16/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Africa,03:00:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Nocturno,No aplica
+909,16/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Antonia Santos Centro,09:10:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+910,17/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,3,0,0,0,0,0,0,0,1,0,0,ANILLO VIAL,Cafe Madrid,09:50:00 p. m.,AGENTES DTB,01. NORTE,Particular,Nocturno,Sin restricción
+911,17/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,San Francisco,08:25:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+912,17/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,CALLE,San Alonso,05:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+913,17/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,1,0,0,0,0,0,0,0,0,3,0,0,BOULEVAR BOLIVAR,San Francisco,09:30:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+914,17/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Centro,03:10:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+915,17/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA FLORIDA BUCARAMANGA,Provenza,08:30:00 p. m.,AGENTES DTB,10. PROVENZA,Particular,Nocturno,No aplica
+916,17/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,09:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Nocturno,No aplica
+917,17/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CARRERA,Santander,10:45:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+918,17/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,0,0,0,0,0,0,1,0,1,0,0,CALLE,Centro,05:20:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,Sin restricción
+919,18/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,AVENIDA LOS ESTUDIANTES,Real de Minas,02:20:00 a. m.,AGENTES DTB,07. LA CIUDADELA,Particular,Nocturno,No aplica
+920,18/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Provenza,11:30:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Nocturno,Sin restricción
+921,18/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CARRERA,La Pedregosa,09:30:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Nocturno,No aplica
+922,18/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,AVENIDA Q SECA,Alarcon,10:40:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,No aplica
+923,18/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Centro,11:00:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+924,18/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,El Prado,08:30:00 a. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+925,18/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CALLE,Centro,09:35:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Nocturno,No aplica
+926,18/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,0,0,1,0,0,0,0,0,0,1,0,CALLE,Campo Hermoso,10:30:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,No aplica
+927,18/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,La Concordia,02:50:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,Sin restricción
+928,18/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,1,0,0,0,0,0,0,0,1,1,0,CARRERA,La Salle,10:00:00 a. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+929,18/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,DIAGONAL,Real de Minas,01:20:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Diurno,No aplica
+930,19/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AVENIDA  GONZALEZ VALENCIA,La Concordia,04:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Empresa,Diurno,No aplica
+931,19/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,1,1,0,0,0,0,0,0,0,0,0,0,CALLE,Centro,05:50:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+932,19/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Sotomayor,11:15:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+933,19/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,1,0,0,0,1,0,0,0,1,0,0,CALLE,Bolarqui,11:20:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+934,19/03/2012,2012,03. Marzo,01. Lunes,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,1,AUTOPISTA  NORTE,Colorados,12:30:00 p. m.,AGENTES DTB,01. NORTE,Particular,Diurno,No aplica
+935,19/03/2012,2012,03. Marzo,01. Lunes,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,AUTOPISTA GIRÓN,Africa,04:00:00 p. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,Sin restricción
+936,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,BOULEVAR BOLIVAR,San Francisco,05:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+937,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,ANILLO VIAL,Rio de Oro I,09:30:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+938,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Centro,12:05:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+939,20/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,0,1,1,0,0,0,0,0,2,0,0,CARRERA,San Francisco,03:20:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+940,20/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Francisco,04:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+941,20/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,1,0,1,0,0,0,0,0,0,0,0,AUTOPISTA  NORTE,Olas II,06:50:00 a. m.,AGENTES DTB,02. NORORIENTAL,Particular,Diurno,No aplica
+942,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,0,0,0,0,1,0,0,0,0,CALLE,Girardot,12:00:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Diurno,No aplica
+943,20/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,LA TRINIDAD,08:50:00 p. m.,AGENTES DTB,24. CALDAS - REPOSO,Empresa,Nocturno,Sin restricción
+944,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AUTOPISTA GIRÓN,Monterredondo,12:10:00 a. m.,AGENTES DTB,17. MUTIS,Particular,Nocturno,No aplica
+945,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,CALLE,Provenza,10:40:00 p. m.,AGENTES DTB,10. PROVENZA,Empresa,Nocturno,No aplica
+946,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Cabecera del Llano,09:00:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Nocturno,No aplica
+947,20/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,BOULEVAR SANTANDER,San Francisco,02:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,Sin restricción
+948,20/03/2012,2012,03. Marzo,02. Martes,Con Heridos,0,0,0,0,0,1,0,0,1,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,06:40:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,No aplica
+949,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,0,0,0,0,2,0,0,0,0,0,0,AVENIDA Q SECA,Alarcon,10:50:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
+950,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Cabecera del Llano,04:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+951,20/03/2012,2012,03. Marzo,02. Martes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Centro,05:45:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,Sin restricción
+952,21/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,Cabecera del Llano,05:30:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+953,21/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,1,0,0,0,1,0,0,0,0,0,0,AUTOPISTA GIRÓN,Rio de Oro I,07:20:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+954,21/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,1,0,1,0,0,0,0,0,0,0,0,CALLE,Centro,11:00:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+955,21/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,0,0,0,0,1,0,0,0,1,0,0,CARRERA,Cabecera del Llano,03:40:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,Sin restricción
+956,21/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,Gaitan,11:00:00 a. m.,AGENTES DTB,04. OCCIDENTAL,Empresa,Diurno,No aplica
+957,21/03/2012,2012,03. Marzo,03. Miercoles,Solo Daños,0,0,0,1,0,0,0,0,0,1,0,0,CARRERA,Sotomayor,10:15:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,Sin restricción
+958,21/03/2012,2012,03. Marzo,03. Miercoles,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CALLE,Campo Hermoso,02:50:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,Sin restricción
+959,22/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,El Tejar,01:30:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Diurno,Sin restricción
+960,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA  NORTE,Cafe Madrid,05:10:00 p. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+961,22/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,BOULEVAR BOLIVAR,San Francisco,07:00:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+962,22/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,2,0,0,0,0,0,0,0,0,1,0,0,CALLE,Campo Hermoso,06:15:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Nocturno,Sin restricción
+963,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,1,AVENIDA  GONZALEZ VALENCIA,Conucos,11:00:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+964,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,CARRERA,La Pedregosa,04:37:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+965,22/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CALLE 45 VIA CHIMITA,La Estrella,12:00:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Particular,Diurno,Sin restricción
+966,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CALLE,Sotomayor,12:20:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+967,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL,Asturias,02:50:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+968,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Pedregosa,04:00:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,No aplica
+969,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,1,CARRERA,Antonia Santos Centro,08:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Nocturno,No aplica
+970,22/03/2012,2012,03. Marzo,04. Jueves,Con Heridos,1,0,0,0,0,0,0,0,0,1,0,0,CARRERA,Kennedy,03:20:00 p. m.,AGENTES DTB,01. NORTE,Particular,Diurno,Sin restricción
+971,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,0,0,0,0,0,0,0,0,0,0,2,ANILLO VIAL,Cafe Madrid,05:30:00 a. m.,AGENTES DTB,01. NORTE,Empresa,Nocturno,No aplica
+972,22/03/2012,2012,03. Marzo,04. Jueves,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,DIAGONAL 15,Bolarqui,12:15:00 p. m.,AGENTES DTB,12. CABECERA DEL LLANO,Particular,Diurno,No aplica
+973,23/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,2,1,0,0,0,0,0,0,0,0,0,CALLE 45 VIA CHIMITA,La Estrella,02:30:00 p. m.,AGENTES DTB,05. GARCIA ROVIRA,Empresa,Diurno,No aplica
+974,23/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,0,0,0,0,2,0,0,0,0,0,0,CALLE,Centro,01:45:00 p. m.,AGENTES DTB,15. CENTRO,Empresa,Diurno,No aplica
+975,23/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,1,0,0,0,0,0,0,AVENIDA Q SECA,Centro,03:15:00 p. m.,AGENTES DTB,15. CENTRO,Particular,Diurno,No aplica
+976,23/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,Kennedy,07:00:00 p. m.,AGENTES DTB,01. NORTE,Particular,Nocturno,No aplica
+977,23/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AUTOPISTA GIRÓN,Bucaramanga,07:30:00 a. m.,AGENTES DTB,08. SUROCCIDENTE,Empresa,Diurno,Sin restricción
+978,23/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,AVENIDA,Diamante I,06:40:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Nocturno,No aplica
+979,23/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,TRANSVERSAL ORIENTAL,Lagos del Cacique,03:40:00 p. m.,AGENTES DTB,16. LAGOS DEL CACIQUE,Particular,Diurno,Sin restricción
+980,23/03/2012,2012,03. Marzo,05. Viernes,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,La Pedregosa,05:40:00 p. m.,AGENTES DTB,09. LA PEDREGOSA,Particular,Diurno,Sin restricción
+981,23/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,Mutualidad,10:35:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,Sin restricción
+982,23/03/2012,2012,03. Marzo,05. Viernes,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CARRERA,San Alonso,02:15:00 p. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+983,24/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,CALLE,Regaderos Norte,12:50:00 a. m.,AGENTES DTB,02. NORORIENTAL,Particular,Nocturno,En restricción
+984,24/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,AVENIDA SAMANES,Real de Minas,10:00:00 p. m.,AGENTES DTB,07. LA CIUDADELA,Empresa,Nocturno,Sin restricción
+985,24/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,CARRERA,San Miguel,10:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,Sin restricción
+986,24/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,2,0,0,0,0,0,0,0,0,0,0,CARRERA,La Ceiba,12:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,No aplica
+987,24/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,DIAGONAL 15,La Concordia,01:30:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+988,24/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,Comuneros,02:30:00 p. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Diurno,Sin restricción
+989,24/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,2,0,0,CARRERA,Albania,01:30:00 p. m.,AGENTES DTB,14. MORRORICO,Particular,Diurno,Sin restricción
+990,24/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,0,0,0,0,0,0,1,0,0,0,1,AVENIDA Q SECA,San Alonso,05:30:00 p. m.,AGENTES DTB,13. ORIENTAL,Empresa,Diurno,No aplica
+991,24/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,0,0,0,0,0,0,1,0,1,0,0,AUTOPISTA  NORTE,Olas II,09:00:00 a. m.,AGENTES DTB,02. NORORIENTAL,Particular,Diurno,Sin restricción
+992,24/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,0,0,0,0,0,0,0,0,0,0,CALLE,Mutis,08:00:00 a. m.,AGENTES DTB,17. MUTIS,Particular,Diurno,No aplica
+993,24/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,2,0,0,0,0,0,0,0,0,0,0,CALLE,San Miguel,09:00:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Nocturno,No aplica
+994,24/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,0,1,0,CALLE,Universidad,01:10:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Particular,Nocturno,No aplica
+995,24/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,0,0,0,0,0,0,0,0,2,0,0,AUTOPISTA  NORTE,Rio de Oro I,08:55:00 p. m.,AGENTES DTB,04. OCCIDENTAL,Particular,Nocturno,Sin restricción
+996,24/03/2012,2012,03. Marzo,06. Sabado,Solo Daños,0,1,1,0,0,0,0,0,0,0,0,0,AVENIDA  GONZALEZ VALENCIA,Sotomayor,08:40:00 a. m.,AGENTES DTB,12. CABECERA DEL LLANO,Empresa,Diurno,No aplica
+997,24/03/2012,2012,03. Marzo,06. Sabado,Con Heridos,0,1,0,0,0,0,0,0,0,1,0,0,CALLE,La Victoria,12:45:00 p. m.,AGENTES DTB,06. LA CONCORDIA,Particular,Diurno,Sin restricción
+998,25/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,0,0,0,0,0,0,0,0,1,0,0,AVENIDA Q SECA,Centro,12:28:00 a. m.,AGENTES DTB,15. CENTRO,Particular,Nocturno,En restricción
+999,25/03/2012,2012,03. Marzo,07. Domingo,Con Heridos,0,0,1,0,0,0,0,0,0,1,0,0,CARRERA,El Prado,08:00:00 a. m.,AGENTES DTB,13. ORIENTAL,Particular,Diurno,Sin restricción
+1000,25/03/2012,2012,03. Marzo,07. Domingo,Solo Daños,0,0,0,0,0,1,1,0,0,0,0,0,CALLE,San Francisco,11:00:00 a. m.,AGENTES DTB,03. SAN FRANCISCO,Empresa,Diurno,No aplica
