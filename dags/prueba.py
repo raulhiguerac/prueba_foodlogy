@@ -137,27 +137,20 @@ def load_data():
 
 def send_mail():
 
-    correo = config('MAIL')
-    contraseña = config('PASSWORD')
+    try:
+        correo = config('MAIL')
+        contraseña = config('PASSWORD')
 
-    yag = yagmail.SMTP(user=correo, password=contraseña)
+        yag = yagmail.SMTP(user=correo, password=contraseña)
 
-    destinatarios = [config('MAIL')]
-    asunto = 'Prueba correo'
-    mensaje = 'Mensaje de prueba'
+        destinatarios = [config('MAIL')]
+        asunto = 'Prueba correo'
+        mensaje = 'Mensaje de prueba'
 
-    yag.send(destinatarios,asunto,mensaje)
-
-    # mensaje = MIMEMultipart("plain")
-    # mensaje["From"] = correo
-    # mensaje["To"] = correo
-    # mensaje["Subject"] = "Prueba correo"
-
-    # smtp = smtp("smtp.live.com")
-    # smtp.starttls()
-    # smtp.login(correo,contraseña)
-    # smtp.sendmail(correo,correo,mensaje.as_string())
-    # smtp.quit()
+        yag.send(destinatarios,asunto,mensaje)
+    
+    except:
+        return "Problemas cargando a bd"
 
     return "Success"
 
