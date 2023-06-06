@@ -1,4 +1,0 @@
-requests
-pandas 
-yagmail 
-python-decouple
