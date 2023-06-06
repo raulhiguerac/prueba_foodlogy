@@ -87,10 +87,10 @@ def transform_data(src_file):
         Vehiculo = df[['ID_VEHICULO','PEATON','AUTOMOVIL','CAMPERO','CAMIONETA','MICRO','BUSETA','BUS','CAMION','VOLQUETA','MOTO','BICICLETA','OTRO']]
         Accidentes = df[['ID','ID_TIEMPO','ID_VEHICULO','ID_LUGAR','GRAVEDAD','PROPIETARIO','RESTRICCION_MOTO']]
 
-        Tiempo.to_csv(r'D:\prueba_t\airflow\data\Tiempo.csv',index=False)
-        Lugar.to_csv(r'D:\prueba_t\airflow\data\Lugar.csv',index=False)
-        Vehiculo.to_csv(r'D:\prueba_t\airflow\data\Vehiculo.csv',index=False)
-        Accidentes.to_csv(r'D:\prueba_t\airflow\data\Accidentes.csv',index=False)
+        Tiempo.to_csv(r'airflow\data\Tiempo.csv',index=False)
+        Lugar.to_csv(r'airflow\data\Lugar.csv',index=False)
+        Vehiculo.to_csv(r'airflow\data\Vehiculo.csv',index=False)
+        Accidentes.to_csv(r'airflow\data\Accidentes.csv',index=False)
 
         return "Success"
     
@@ -148,11 +148,10 @@ def send_mail():
             Gracias por la atención.'
 
         yag.send(to=[config('CORREO1'),config('CORREO2')], cc=correo,  subject=asunto, contents=mensaje)
+        return "Correo enviado con exito"
     
     except:
         return "Problemas cargando a bd"
-
-    return "Success"
 
 default_args = {
     "owner": "Raul Higuera",
@@ -244,7 +243,7 @@ with DAG(
         task_id="load_data_into_db_task",
         python_callable=load_data,
         op_kwargs={
-            "src_files": [r"airflow\data\output.csv",r"airflow\data\Lugar.csv",r"airflow\data\Vehiculo.csv",r"airflow\data\Tiempo.csv"],
+            "src_files": [r"airflow\data\Accidentes.csv",r"airflow\data\Lugar.csv",r"airflow\data\Vehiculo.csv",r"airflow\data\Tiempo.csv"],
         },
         dag=dag
     )
